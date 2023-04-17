@@ -1,0 +1,6 @@
+com\encuentro8b\demo8\models\Usuario.class
+com\encuentro8b\demo8\services\IUsuarioService.class
+com\encuentro8b\demo8\controllers\UsuarioController.class
+com\encuentro8b\demo8\services\UsuarioService.class
+com\encuentro8b\demo8\repositories\IUsuarioRepository.class
+com\encuentro8b\demo8\Demo8Application.class
